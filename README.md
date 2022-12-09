@@ -19,7 +19,7 @@ ___
 
   ### 📱 Contact:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/burmachine)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&theme=tokyonight)](https://t.me/burmachine)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/)
 [![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bur_machine/)
 
