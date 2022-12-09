@@ -5,15 +5,16 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmachine&theme=tokyonight&show_icons=true)
 
 ___
+___
 <div align="center">
 <a href="https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjzSAhmetzyanov&theme=codeSTACKr&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmachine&theme=tokyonight&hide_langs_below=1" />
 </a>
 <a href="https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjzSAhmetzyanov&show_icons=true&theme=codeSTACKr"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmachine&show_icons=true&theme=tokyonight"
 </a>
 </div>
-
+___
 ___
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurMachine&theme=solarized_dark)
