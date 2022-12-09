@@ -1,4 +1,4 @@
-## Hi there, I'm Artur Sultanov 👋
+## Hi there, I'm Artur Sultanov <img src="https://github.com/Burmachine/Burmachine/blob/main/.github/assets/hey.gif?raw=true" height="35px" width="35px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+github+!!)](https://git.io/typing-svg)
 
