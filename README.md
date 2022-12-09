@@ -6,29 +6,15 @@
 
 ___
 ___
-<div align="center">
 
+<div align="center">
 <a href="https://github.com/BurMachine/Burmachine">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmachine&show_icons=true&theme=tokyonight"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmachine&theme=dracula&hide_langs_below=1" />
+</a>
+<a href="https://github.com/BurMachine/Burmachine">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmachine&show_icons=true&theme=dracula"
 </a>
 </div>
-  
-<div align="center">
-<a href="https://github.com/BurMachine/Burmachine">
-  <img align="ceneter" src="http://www.fillmurray.com/460/300](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight)">
-  </div>
-
-</p>
-  
-  
-  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurMachine&theme=tokyonight)  |
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight)
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurMachine&theme=tokyonight)
   
 ___
 ___
