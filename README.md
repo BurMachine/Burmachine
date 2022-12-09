@@ -13,10 +13,10 @@ ___
 </a>
 </div>
   
-<p align="center">
+<div align="center">
 <a href="https://github.com/Burmachine/Burmachine">
   <img align="ceneter" src="http://www.fillmurray.com/460/300](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight)">
-  </a>
+  </div>
 
 </p>
   
