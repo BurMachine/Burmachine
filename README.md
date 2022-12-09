@@ -1,9 +1,5 @@
-## Hi there, I'm Artur Sultanov <img src="https://github.com/Burmachine/Burmachine/blob/main/.github/assets/hey.gif?raw=true" height="35px" width="35px">
+## Hi there, I'm Artur Sultanov
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+github+!!)](https://git.io/typing-svg)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmachine&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmachine)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 ___
