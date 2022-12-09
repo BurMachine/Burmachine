@@ -1,4 +1,4 @@
-## Hi there, I'm Artur Sultanov
+## Hi there, I'm Artur Sultanov 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F46800.svg&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 
