@@ -17,10 +17,13 @@ ___
 ___
 ___
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurMachine&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurMachine&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BurMachine&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BurMachine&theme=solarized_dark)
+  ### 📱 Contact:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/burmachine)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/)
+[![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bur_machine/)
+
+  
+___
 
 
