@@ -8,13 +8,13 @@ ___
 ___
 <div align="center">
 
-<a href="https://github.com/Burmachine/Burmachine">
+<a href="https://github.com/BurMachine/Burmachine">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmachine&show_icons=true&theme=tokyonight"
 </a>
 </div>
   
 <div align="center">
-<a href="https://github.com/Burmachine/Burmachine">
+<a href="https://github.com/BurMachine/Burmachine">
   <img align="ceneter" src="http://www.fillmurray.com/460/300](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight)">
   </div>
 
