@@ -13,6 +13,12 @@ ___
 </a>
 </div>
   
+  
+  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurMachine&theme=tokyonight)  |
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BurMachine&theme=tokyonight)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurMachine&theme=tokyonight)
