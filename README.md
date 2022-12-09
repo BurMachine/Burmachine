@@ -7,11 +7,12 @@
 ___
 ___
 <div align="center">
-<a href="https://github.com/Burmachine/Burmachine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmachine&theme=tokyonight&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/Burmachine/Burmachine">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmachine&show_icons=true&theme=tokyonight"
+</a>
+  <a href="https://github.com/Burmachine/Burmachine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmachine&theme=tokyonight&hide_langs_below=1" />
 </a>
 </div>
   
