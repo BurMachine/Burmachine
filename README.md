@@ -26,4 +26,4 @@ ___
   
 ___
 
-![Snake animation]()
+![Snake animation](https://github.com/BurMachine/Burmachine/blob/main/.github/github-contribution-grid-snake%20(1).svg)
