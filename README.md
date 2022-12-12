@@ -24,4 +24,4 @@ ___
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bur_machine/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sultanovartur1873@gmail.com)
   
-![Snake animation](https://github.com/BurMachine/Burmachine/tree/output)
+![Snake animation](https://github.com/BurMachine/Burmachine/blob/output/github-contribution-grid-snake.svg)
