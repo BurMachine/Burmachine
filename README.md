@@ -1,4 +1,5 @@
-## Hi there, I'm Artur Sultanov 👋 <img src="https://github.com/Burmachine/burmachine/blob/main/.github/assets/hey.gif?raw=true" height="35px" width="35px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F46800.svg&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+## Hi there, I'm Artur Sultanov 👋 <img src="https://github.com/Burmachine/burmachine/blob/main/.github/assets/hey.gif?raw=true" height="35px" width="35px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F46800.svg&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 ### Back End developer (GOLANG)
 
 ___
